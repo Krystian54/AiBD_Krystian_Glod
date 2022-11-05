@@ -11,5 +11,6 @@ Documents/dataAppendix.md - opis operacji wykonywanych na danych
          /readme.md - pik readme
 
 Original Data/earthquake_data.csv - dane oryginalne
+             /Metadata/metadataGuide.md - opis danych
 
 
