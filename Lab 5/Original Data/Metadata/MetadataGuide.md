@@ -1,0 +1,1 @@
+Informacje na temat oryginalnych danych: https://fivethirtyeight.com/features/the-rock-isnt-alone-lots-of-people-are-worried-about-the-big-one/
